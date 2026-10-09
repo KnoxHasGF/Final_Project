@@ -88,3 +88,26 @@ Each resource supports `GET`, `POST`, `PUT`, and `DELETE` operations. Health rec
 - Nyein Chan Htet Naing
 - Myat Phone Paye
 - Lin Myat Thu
+
+## ## Application Screenshots
+
+### 1. Sign In
+<img width="1908" height="906" alt="image" src="https://github.com/user-attachments/assets/0426bc3d-5221-48e4-b267-19048bb3e392" />
+
+### 2. Sign Up
+<img width="1889" height="917" alt="image" src="https://github.com/user-attachments/assets/a7d52404-5379-459d-82bc-c673aa97124d" />
+
+### 3. Add a Pet
+<img width="1909" height="917" alt="image" src="https://github.com/user-attachments/assets/1ce9ffb1-8d6a-4ec0-ba6c-1f613ca96310" />
+
+### 4. Choose a Doctor
+<img width="1911" height="913" alt="image" src="https://github.com/user-attachments/assets/27c19d08-de9c-47e9-b324-0ad050ce1514" />
+
+### 5. Select Appointment Date and Time
+<img width="1886" height="914" alt="image" src="https://github.com/user-attachments/assets/68f03a52-6ebe-435b-9001-775f1cdd7df6" />
+
+### 6. Appointment Schedule
+<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/d3647c15-0959-4e82-b591-fdae96eb9dfb" />
+
+### 7. Pet Health Records
+<img width="1907" height="913" alt="image" src="https://github.com/user-attachments/assets/aab26cad-00ba-4e19-bdfe-da83cc65beb1" />
